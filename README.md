@@ -1,0 +1,2 @@
+# Customer-Spending-Analytics-and-Classification-Using-Support-Vector-Machine-
+This project uses Exploratory Data Analysis (EDA) to analyze customer spending patterns and applies a Support Vector Machine (SVM) for classification. It predicts customer spending behavior based on demographic and purchasing data, helping businesses understand their customers for targeted marketing and decision-making.
